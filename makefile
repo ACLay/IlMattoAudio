@@ -1,4 +1,4 @@
-
+# copied from https://github.com/lavers/IOBoard-Library
 CHIP=atmega644p
 FCPU=12000000 
 
